@@ -2,34 +2,34 @@ theme: jekyll-theme-minimal
 font-icon: /assets/css/font-awesome-4.7.0/css/font-awesome.min.css
 
 # 你的求职方向，比如前端开发工程师等
-title: NBA球员/小前锋/大前锋/控卫
+title: 歌手、演员
 
 # 对你自己的简洁描述
-description: 小皇帝篮球智商极高、突破犀利，拥有出色的视野和传球技术，被认为是NBA有史以来最为全能的球员之一
+description: 完美声线；清脆如天籁的嗓音；创作、打鼓、跳舞、弹吉他、弹琴、小号样样行
 
 # 你的美照地址
-logo: /assets/images/me.jpg
+logo: ![](https://i.loli.net/2021/01/04/L8z1WcOhpuVCilG.jpg)
 
 # 你的名字
-name: 勒布朗·詹姆斯(LeBron James)
+name: 贾斯汀·比伯（Justin Bieber）
 
 # 你的联系方式
-phone: 188888888888
+phone: @justinbieber
 
 # 你的邮箱
-email: LeBron@unkown.com
+email: ustinnbieber@windowslive.com
 
 # 你目前的住址
-address: 美国洛杉矶
+address: Atlanta Botanical （亚特兰大）
 
 # 你毕业院校
-school: 圣文森特·圣玛丽高中
+school: 加拿大圣迈克尔天主教高中
 
 # 你的专业
-profession: 专业篮球运动员
+profession: 歌手
 
 # 你的学位
-degree: 高中没毕业
+degree: 高中毕业
 
 # 你获得过的证书或奖励
-credential: 三届MVP/三届NBA冠军
+credential: 第58届格莱美最佳舞曲录制奖
